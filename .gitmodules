@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BIGpopA"]
+	path = BIGpopA
+	url = https://github.com/breeding-insight/bigpopa
 [submodule "BIGr"]
 	path = BIGr
 	url = https://github.com/breeding-insight/bigr
