@@ -8,6 +8,9 @@
 [submodule "BIGr"]
 	path = BIGr
 	url = https://github.com/breeding-insight/bigr
+[submodule "Familia"]
+	path = Familia
+	url = https://github.com/breeding-insight/familia
 [submodule "viewpoly"]
 	path = viewpoly
 	url = https://github.com/breeding-insight/viewpoly
