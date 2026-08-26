@@ -11,6 +11,9 @@
 [submodule "Familia"]
 	path = Familia
 	url = https://github.com/breeding-insight/familia
+[submodule "deltabreedquery"]
+	path = deltabreedquery
+	url = https://github.com/breeding-insight/deltabreedquery
 [submodule "viewpoly"]
 	path = viewpoly
 	url = https://github.com/breeding-insight/viewpoly
